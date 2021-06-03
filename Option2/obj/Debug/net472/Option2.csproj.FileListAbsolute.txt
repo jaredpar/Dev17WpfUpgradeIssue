@@ -1,0 +1,15 @@
+C:\Users\jaredpar\temp\wpf\Option2\bin\Debug\net472\Option2.exe.config
+C:\Users\jaredpar\temp\wpf\Option2\bin\Debug\net472\Option2.exe
+C:\Users\jaredpar\temp\wpf\Option2\bin\Debug\net472\Option2.pdb
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\Option2.csproj.AssemblyReference.cache
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\MainWindow.g.cs
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\App.g.cs
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\Option2_MarkupCompile.cache
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\Option2_MarkupCompile.lref
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\MainWindow.baml
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\Option2.g.resources
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\Option2.AssemblyInfoInputs.cache
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\Option2.AssemblyInfo.cs
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\Option2.csproj.CoreCompileInputs.cache
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\Option2.exe
+C:\Users\jaredpar\temp\wpf\Option2\obj\Debug\net472\Option2.pdb

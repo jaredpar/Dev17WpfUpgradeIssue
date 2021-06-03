@@ -1,0 +1,5 @@
+C:\Users\jaredpar\temp\wpf\Option1\obj\Debug\net472\Option1.csproj.AssemblyReference.cache
+C:\Users\jaredpar\temp\wpf\Option1\obj\Debug\net472\Option1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaredpar\temp\wpf\Option1\obj\Debug\net472\Option1.AssemblyInfoInputs.cache
+C:\Users\jaredpar\temp\wpf\Option1\obj\Debug\net472\Option1.AssemblyInfo.cs
+C:\Users\jaredpar\temp\wpf\Option1\obj\Debug\net472\Option1.csproj.CoreCompileInputs.cache
